@@ -16,6 +16,7 @@ This repository contains a simple network sniffer implemented in [Programming La
 1.  **Installation:**
     * Install the required libraries: `[Installation instructions, e.g., pip install scapy]`
 2.  **Running the Sniffer:**
+    * git clone this file file :- using in '[git clone https://github.com/coderharsh777/Basic-Network-Sniffer]'
     * Execute the script: `[Command to run, e.g., python sniffer.py]`
     * (Optional) Specify the interface and filter: `[Example command with options]`
 3.  **Viewing Captured Packets:**
